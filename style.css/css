@@ -1,0 +1,7 @@
+class.Navigation{
+    display: inline-block;
+    vertical-align: top;
+}
+.logo{
+    text-align: center;
+}
